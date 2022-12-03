@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=androidwg&label=you%27re%20visitor%20%23&color=red)
 
-**CURRENTLY WORKING ON**: [Discord.fm](https://github.com/androidWG/Discord.fm)
+**CURRENTLY WORKING ON**: [Personal Website](https://github.com/androidWG/personal-website)
 
 sup, I make some apps/programs/scripts/programming and I'm currently learning Django. I have some intermediate C#, intermediate Python experience and next on my learning list is JS frameworks, especially Vue and Three.js. looking to collaborate on anything, really depends on what you bring to the table and what level of dumb you're willing to deal with.
 
